@@ -2,7 +2,7 @@
 
 Welcome to the ultimate repository for TCS NQT preparation! Below you will find curated coding questions frequently asked in technical interviews and assessments, complete with multi-language implementations.
 
-👉 **Looking for more company-specific placement resources, mock tests, and practice paths? Check out [Rayyan Coding School Placement Portal](https://rayyancodingschool.shadilrayyan2.workers.dev/)!**
+👉 **Looking for more  placement resources ?Check out [Rayyan Coding School Placement Portal](https://rayyancodingschool.shadilrayyan2.workers.dev/)!**
 
 ## Resource 
 - [ArkS0001/TCS-NQT](https://github.com/ArkS0001/TCS-NQT)
@@ -637,6 +637,7 @@ print(p)
 
 ## 🚀 Accelerate Your Career Preparation!
 
-Struggling with complex structures or trying to crack the top product companies? Visit [Rayyan Coding School](https://rayyancodingschool.shadilrayyan2.workers.dev/) to access interactive roadmaps, personalized mentorship programs, live mock assessment panels, and high-frequency company dashboards designed entirely to secure your target offer.
+👉 **Looking for more  placement resources ?Check out [Rayyan Coding School Placement Portal](https://rayyancodingschool.shadilrayyan2.workers.dev/)!**
+
 
 
