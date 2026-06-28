@@ -9,6 +9,7 @@ Welcome to the ultimate repository for TCS NQT preparation! Below you will find 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/competitive-exam-experiences/tcs-nqt-exam-preparation-and-guide/)
 - [Takeuforward](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions/)
 - [OnlineStudy4U](https://onlinestudy4u.in/category/tcs-pyq/)
+- [Arjunpolen/TCS-NQT-PYQ-QUESTIONS](https://github.com/Arjunpolen/TCS-NQT-PYQ-QUESTIONS)
 ---
 
 ## 📌 Coding Questions
