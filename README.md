@@ -11,6 +11,15 @@ Welcome to the ultimate repository for TCS NQT preparation! Below you will find 
 - [OnlineStudy4U](https://onlinestudy4u.in/category/tcs-pyq/)
 - [Arjunpolen/TCS-NQT-PYQ-QUESTIONS](https://github.com/Arjunpolen/TCS-NQT-PYQ-QUESTIONS)
 ---
+## youTube Video 
+- [Quant playlist](https://youtube.com/playlist?list=PLqM7alHXFySEgUZPe57fURJrIt6rXZisW&si=ElnBu7i7G9SFm3F6)
+- [Verbal playlist](https://youtube.com/playlist?list=PLqM7alHXFySErksMR-z2wxFMTDV-uiDUO&si=B2XNV79ITQWne0Cs)
+- [coding playlist](https://youtube.com/playlist?list=PLqM7alHXFySFSlR00usGeOFRpcFUVYkMp&si=7wq73jd3BZjDqzel)
+- [Soft Skill](https://youtube.com/playlist?list=PLqM7alHXFySGesV_XZmdp3_TzJIVJOiad&si=WopTPzMT7cnuOeIK)
+  
+## 📄 Previous Year Question Papers
+
+👉 [Browse all papers](Question-paper/)
 
 ## 📌 Coding Questions
 
